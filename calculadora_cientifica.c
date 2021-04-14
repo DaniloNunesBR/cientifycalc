@@ -1,8 +1,3 @@
-/*
-Esta calculadora possui uma série de funções, e foi aplicado diversos conhecimentos tais como:
-Vetores,Estruturas de Repetição,Estruturas de Decisão,Funções e Procedimentos,
-Passagem de parâmetros com ponteiros e dentro outros...
-*/
 #include<stdio.h> 
 #include<stdlib.h>
 #include<conio.h>
